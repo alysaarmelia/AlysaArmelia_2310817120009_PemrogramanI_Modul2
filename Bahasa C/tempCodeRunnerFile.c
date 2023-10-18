@@ -1,0 +1,1 @@
+printf("Kelas Paralel          :%s\n", paralel);
